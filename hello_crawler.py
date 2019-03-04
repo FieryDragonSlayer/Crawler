@@ -1,4 +1,4 @@
 import urllib2
-res = urllib2.urlopen('http://tieba.baidu.com/p/1753935195')
-ret = res.read()
+resource = urllib2.urlopen('http://tieba.baidu.com/p/1753935195')
+return = resource.read()
 print(ret)
